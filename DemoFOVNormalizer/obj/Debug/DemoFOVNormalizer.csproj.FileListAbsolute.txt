@@ -1,0 +1,10 @@
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\obj\Debug\DemoFOVNormalizer.csprojAssemblyReference.cache
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\obj\Debug\DemoFOVNormalizer.Form1.resources
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\obj\Debug\DemoFOVNormalizer.Properties.Resources.resources
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\obj\Debug\DemoFOVNormalizer.csproj.GenerateResource.cache
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\obj\Debug\DemoFOVNormalizer.csproj.CoreCompileInputs.cache
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\bin\Debug\DemoFOVNormalizer.exe.config
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\bin\Debug\DemoFOVNormalizer.exe
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\bin\Debug\DemoFOVNormalizer.pdb
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\obj\Debug\DemoFOVNormalizer.exe
+C:\Users\Zyntex\source\repos\DemoFOVNormalizer\DemoFOVNormalizer\obj\Debug\DemoFOVNormalizer.pdb
